@@ -15,7 +15,6 @@ No decorrer do curso, vamos implementar toda a camada de comunicação com a API
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-Se liga nessa lista de tudo que usaremos nesse treinamento:
 
 - `React`
 - `React Hooks`
